@@ -1,4 +1,4 @@
-# Data Scientists Versus Statisticians
+# Data Scientists versus Statisticians
 
 ## What do you think being a data scientist is about?
 
