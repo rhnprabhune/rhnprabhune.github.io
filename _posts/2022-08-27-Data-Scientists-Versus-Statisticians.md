@@ -1,5 +1,3 @@
-Writing this blog for my course work at NC State !
-
 ## What do you think being a data scientist is about?
 
 In a very informal sense, data science is a practice statisticians have long engaged in, just on a far greater scale. The data science community has advanced with the combination of cloud and big data. Data scientists  collect and analyze enormous sets of structured and unstructured data. Computer science, statistics, and mathematics are all combined in the work of a data scientist. In order to produce actionable plans for businesses and other organizations, they evaluate, analyze, and model data.
