@@ -1,1 +1,1 @@
-### This repository was created for my course work at NC State !
+#### Link to blog - https://rhnprabhune.github.io/
