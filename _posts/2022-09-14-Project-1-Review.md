@@ -1,3 +1,3 @@
 # Project 1 Review
 
-[link](https://github.com/rhnprabhune/rhnprabhune.github.io/blob/main/documents/rjprabhu_project1.html)
+I recently completed the [a project](https://rawcdn.githack.com/rhnprabhune/rhnprabhune.github.io/main/documents/rjprabhu_project1.html) as a part of my curriculum for **ST 558: Data Science for Statisticians**
