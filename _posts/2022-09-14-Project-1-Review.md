@@ -1,6 +1,6 @@
 # Project 1 Review
 
-![My Image2](images/Project1.PNG)
+![My Image2](../images/Project1.PNG)
 
 
 I recently completed [Project 1](https://rawcdn.githack.com/rhnprabhune/rhnprabhune.github.io/main/documents/rjprabhu_project1.html) as a part of my curriculum for **ST 558: Data Science for Statisticians**.
@@ -18,5 +18,9 @@ Given that I am new to R, this was the ideal project for me to practice working 
 5. **Object oriented programming**: Creating a custom function for plot based on the `class` of a tibble. 
 6. **Plotting**: Got an introduction to how to make line graphs in R with `ggplot2` package.
 
+<<<<<<< HEAD
 ### What I would do differently
 As part of this project, we had to create a narrative that outlined the stages involved in creating a function. Although this might be a good programming practice, I really feel that you very rarely get to present a beautiful R markdown explaining the actions followed as part of real life applications. Sometimes the only way to explain your code to your colleagues or clients is through inline code comments. That section, in my opinion, is easier to write than a story and is also more clear (in its own way!). So I would definitely put more focus on this part.
+=======
+### Corrections/ Future scope 
+>>>>>>> 039f2f8f56eca3394bdd7eadaf36a359bef52f40
