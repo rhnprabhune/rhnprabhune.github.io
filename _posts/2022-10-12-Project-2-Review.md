@@ -1,6 +1,7 @@
 # Project 2 Review
 
 I recently completed [Project 2](https://namangoel05.github.io/ST558_Project2_2D/) as a part of my curriculum for **ST 558: Data Science for Statisticians**.
+You can find the github repo [here](https://github.com/namangoel05/ST558_Project2_2D)
 
 ## Purpose of the project
 The main goal of the project was to use github pages to develop a vignette that demonstrated how to query, parse, and return well-structured data in the form of a data frame from REST API Endpoints using user-defined functions. I conducted some exploratory data analysis after acquiring the data in order to draw some insights from it. Box plots, contingency tables, summary tables, histograms, etc. were included in this.  
