@@ -61,4 +61,4 @@ It is sometimes required to convert a numerical variable into categorical variab
     * Two way table: Returns a 2x2 table which accounts for frequency of occurrence of cateogries for one variable for each category of the second variable
     * Three way table: The same principal is extended for 3 categorical variables
 Depending on how many categorical variables are present in your dataset, you can select which type of table to go for.
-5. **Numerical summaries** - 
+5. **Quantitative summaries** - This is used for summarizing **numerical data**. `summary()` function in R can be used to create quantitative summaries for each numerical variable. This function gives minimum, maximum, mean, median and 1st and 3rd quartiles values for the variable. Alternately, you can find summaries for numerical values 
