@@ -12,3 +12,13 @@ Other than that a huge number of variables could lead to addition of unnecessary
 2. **Backward Elimination**: It is the opposite of Forward selection in which the model initially has all the variables included and then they are sequentially removed. The variable with the smallest partial correlation with the dependent variable or in other words whose contribution is the least is first considered for removal. If the criteria for elimination is met then the variable is removed. This process is also repeated until all the insignificant variables are removed.
 
 3. **Stepwise**: Stepwise is a combination of forward selection and backward Elimination except that the variables added at a step don’t necessarily stay Stepwise search checks going both backwards and forwards at every step. It considers the addition of any variable not currently in the model, as well as the removal of any variable currently in the model.
+
+4. **Regularization**: In regularization we shrink the coefficient estimates towards zero. This technique discourages learning a more complex or flexible model, so as to avoid the risk of over-fitting. There are two main types of regularization techniques: Ridge Regularization and Lasso Regularization.  
+&nbsp;&nbsp;&nbsp;&nbsp;4.1 Ridge Regression: Adds penalty equivalent to the sum of the squares of the magnitude of coefficients.  
+&nbsp;&nbsp;&nbsp;&nbsp;4.2 Lasso Regression: Adds penalty equivalent to the sum of the absolute values of coefficients.   
+In the cost function we get an additional term of regularization parameter (Lambda λ). This is hyperparameter, the value for which can be set by the user. The higher the value of λ, the higher penalty we give to the coefficients which results in the smaller value of coefficients. In this way we can reduce the values of the coefficients for higher order terms in the cost functions which results in simpler models less prone to over-fitting.
+
+### Principal Component Analysis
+While this is not directly related to variable selection but it plays an important role in dimensionality reduction. Principal component analysis (PCA) is a technique that transforms high-dimensions data into lower-dimensions while retaining as much information as possible. Intuitively, the idea is that we can selectively keep the variables with higher variances and then forget about the variables with lower variance. This doesn't directly translate to calculating the variance of each variable, but rather we calculate the principal components which are combination of all variables. 
+
+## Choosing variable selection methods
