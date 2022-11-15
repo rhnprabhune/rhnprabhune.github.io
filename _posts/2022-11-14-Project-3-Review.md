@@ -1,4 +1,4 @@
-# Project 2 Review
+# Project 3 Review
 
 I recently completed [Project 3](https://manan100196.github.io/ST_558_Project3_GroupD/) as a part of my curriculum for **ST 558: Data Science for Statisticians**.
 You can find the github repo [here](https://github.com/Manan100196/ST_558_Project3_GroupD)
